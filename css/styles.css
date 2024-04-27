@@ -13,3 +13,8 @@ p.description {
     color: lightslategray;
     font-style: italic;
 }
+
+ol,
+ul {
+    background-color: lightcyan;
+}
