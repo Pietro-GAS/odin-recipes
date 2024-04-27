@@ -7,3 +7,9 @@ h1 {
     color: blue;
     text-align: center;
 }
+
+p.description {
+    background-color: blanchedalmond;
+    color: lightslategray;
+    font-style: italic;
+}
