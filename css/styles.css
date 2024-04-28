@@ -6,6 +6,7 @@ h1 {
     background-color: aliceblue;
     color: blue;
     text-align: center;
+    padding: 5%;
 }
 
 p.description {
@@ -16,5 +17,14 @@ p.description {
 
 ol,
 ul {
-    background-color: lightcyan;
+    background-color: aliceblue;
+}
+
+.homepage {
+    border: 2px solid blue
+}
+
+ul.homepage {
+    padding: 8px 24px;
+    height: 300px;
 }
